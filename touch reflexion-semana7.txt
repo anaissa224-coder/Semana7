@@ -1,0 +1,11 @@
+La implementación de plataformas tecnológicas para el registro y consulta de incidencias es
+fundamental para fortalecer el tejido social y la participación ciudadana. Estas herramientas
+centralizan la información, permitiendo que los problemas de la comunidad sean visibles y 
+rastreables en tiempo real, lo que elimina la opacidad en la gestión pública. Al contar con un
+historial digital, se facilita la rendición de cuentas, ya que tanto los ciudadanos como las
+autoridades pueden medir los tiempos de respuesta y la eficacia de las soluciones aplicadas. 
+Además, el acceso democrático a estos datos fomenta un sentido de corresponsabilidad, donde el
+vecino no solo reporta, sino que supervisa el entorno. La digitalización también permite 
+identificar patrones o zonas críticas mediante el análisis de datos, ayudando a prevenir problemas
+recurrentes antes de que escalen. Esto optimiza el uso de recursos limitados, dirigiéndolos hacia 
+las áreas con mayor necesidad estadística.
