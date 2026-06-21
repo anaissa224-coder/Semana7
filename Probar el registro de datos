@@ -1,0 +1,19 @@
+http://localhost:3000/reportes
+{
+  "tipo": "solicitud certificado",
+  "descripcion": "se solicita certificado de creditos cursados"
+}
+http://localhost:3000/reportes
+touch prueba-reportes.txt
+[
+  {
+    "id": 1,
+    "tipo": "solicitud certificado",
+    "descripcion": "se solicita certificado de creditos cursados"
+  }
+]
+{
+  "tipo": "academico",
+  "descripcion": "se pide a oficinas de admisiones o vía correo"
+}
+touch ejemplos-reportes.txt
